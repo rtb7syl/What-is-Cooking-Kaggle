@@ -1,2 +1,2 @@
 # What-is-Cooking-Kaggle
-Code for What's Cooking Kaggle challenge
+Notebook for What's Cooking Kaggle challenge
